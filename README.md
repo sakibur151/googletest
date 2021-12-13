@@ -1,6 +1,7 @@
 # GoogleTest
 
-### Special Announcement for github
+### How to github work properly in the project
+Excellent Tanvirul Islam Sir
 
 #### Live at Head
 
